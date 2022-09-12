@@ -11,6 +11,4 @@ $ pip install praw
 $ pip install pandas
 ```
 
-After that, navigate to [Reddit's app page](https://www.reddit.com/prefs/apps), create an app with whatever name you prefer, and save the client ID, client secret, and user agent(the name of the app).
-Use the above information to fill in three empty variables in the script.
-Then just run the script and type the title exactly as it's written on Reddit.
+After that, navigate to [Reddit's app page](https://www.reddit.com/prefs/apps), and create an app with whatever name you prefer. Save the client ID, client secret, and user agent(the name of the app). Use the obtained information to fill in the respective empty variables in the script. Then just run it and type the title exactly as it's written on Reddit.
