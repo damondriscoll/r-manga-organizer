@@ -1,4 +1,4 @@
-## /r/manga Chapter Collector
+## /r/manga Chapter Organizer
 Simple script to organize discussion threads for a given series.
 
 ![csv shown](example.png)
