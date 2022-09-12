@@ -1,7 +1,11 @@
 import praw, re, pandas as pd
 from datetime import datetime
 
-read = praw.Reddit(client_id="", client_secret="", user_agent="")
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+USER_AGENT = ""
+
+read = praw.Reddit(client_id=CLIENT_ID, client_secret=CLIENT_SECRET, user_agent=USER_AGENT)
 manga = read.subreddit("manga")
 
 title = input("Name of the series?\n\n")
