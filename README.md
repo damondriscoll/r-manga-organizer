@@ -11,4 +11,4 @@ $ pip install praw
 $ pip install pandas
 ```
 
-Then just run the script and type the title exactly as it's written in the threads.
+Then just run the script and type the title exactly as it's written on Reddit.
